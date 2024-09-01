@@ -54,7 +54,7 @@
 
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top p-0">
-        <img class="img-fluid w-100" src="/img/nielit-header.png" alt="NIELIT Header">
+        <img class="img-fluid w-100" src="img/nielit-header.png" alt="NIELIT Header">
     </nav>
     <div class="w-100 p-2">
         <h1 class="text-center" style="color: #00008B;">NIELIT (Deemed to be University)</h1>
